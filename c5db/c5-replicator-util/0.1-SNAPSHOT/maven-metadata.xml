@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>c5db</groupId>
+  <artifactId>c5-replicator-util</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150305.234856</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150305234856</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1-20150305.234856-1</value>
+        <updated>20150305234856</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20150305.234856-1</value>
+        <updated>20150305234856</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>0.1-20150305.234856-1</value>
+        <updated>20150305234856</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
